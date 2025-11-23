@@ -1,6 +1,6 @@
 # 📂 Google Drive Shared Folder Cloner
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ciwga/Google-Drive-Shared-Folder-Cloner/blob/main/GDrive-Shared-Folder-Cloner.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ciwga/Google-Drive-Shared-Folder-Cloner/blob/main/GDrive_Shared_Folder_Cloner.ipynb)
 
 A powerful Google Colab notebook designed to clone/copy folders shared with you directly to your own "My Drive" without downloading them to your local machine first.
 
